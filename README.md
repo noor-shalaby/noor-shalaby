@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=I%20build%20juicy%20games%2C%20websites%20and%20applications..;parimarily%20using%20open-source%20tech%20as%20a%20proud%20Linux%20magician%20%3A)" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=I%20build%20juicy%20games%2C%20websites%20and%20applications..;primarily%20using%20open-source%20tech%20as%20a%20proud%20Linux%20magician%20%3A)" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
